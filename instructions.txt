@@ -1,0 +1,33 @@
+************COMPILING MAIN CLASS**********
+
+To complie the main class you should compile the Main.java file.
+
+-------------------------------------------
+
+
+***********CONNECTING TO THE SERVER************
+
+To connect to the server type 
+					telnet localhost 2000 for windows
+					nc localhost 2000 for linux
+
+--------------------------------------------
+
+
+************BIDDING FOR CLIENT****************
+
+After you connect to the server you will see in command window "Enter Your Name :"
+then you should enter your name for bidding.
+Then you will see "Enter Symbol :"
+now you should enter symbol of the company
+Then you can see current bid and "Enter Your Bid :"
+now you can enter your bid and you can see your bid and other companies bidding informtion in GUI.
+
+for new client you should get another command window and connect to the server from that command window
+and start new bidding session.
+
+for end the bidding session and disconnect from server you should type "quit" in command window.
+
+ThankYou.....
+
+-------------------------------------------
